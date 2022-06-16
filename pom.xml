@@ -19,7 +19,7 @@
         <module>keycloak-common</module>
         <module>security-basic</module>
         <module>security-oauth</module>
-        <module>swagger-security-starter</module>
+        <module>swagger-starter</module>
         <module>keycloak-bearer-starter</module>
     </modules>
 
